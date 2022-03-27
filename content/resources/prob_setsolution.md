@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 32813bd2-8032-e053-e9dd-06dba2765557
 resourcetype: Document
 title: Syntax Problem Set
 uid: 39d6659e-7ae0-fd8d-e5bb-5df0dabb59c8
