@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, targeted audience, readings, attendance policy, participation, exams, and
+  grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -19,12 +22,12 @@ This course provides an introduction to the linguistic study of _abnormal langua
 Target Audience
 ---------------
 
-This course is aimed at undergraduates in the cognitive sciences, brain sciences, and linguistics. Graduates students are also welcome and may receive graduate credit. Interested students should have at least some background in linguistics (e.g. [24.900](/courses/24-900-introduction-to-linguistics-fall-2012/), "Introduction to Linguistics"). Those lacking such a background should contact the instructors as soon as possible.
+This course is aimed at undergraduates in the cognitive sciences, brain sciences, and linguistics. Graduates students are also welcome and may receive graduate credit. Interested students should have at least some background in linguistics (e.g. [24.900](/courses/24-900-introduction-to-linguistics-fall-2012), "Introduction to Linguistics"). Those lacking such a background should contact the instructors as soon as possible.
 
 Readings
 --------
 
-There will be two required readings per class, which should be read before class. The exams will cover material present in the readings that is not discussed in class. All readings are posted in the [readings]({{< baseurl >}}/pages/readings) section.
+There will be two required readings per class, which should be read before class. The exams will cover material present in the readings that is not discussed in class. All readings are posted in the {{% resource_link 2d4abfbe-be67-5393-e7ee-56130070accd "readings" %}} section.
 
 Attendance Policy
 -----------------
