@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Infant perception of English and Chinese.
-file: /ol-ocw-studio-app/courses/9-56j-abnormal-language-fall-2004/c415aa8d4ee8e4fdc746f57eb8a2e10c_chp_abLang.jpg
+file: /courses/9-56j-abnormal-language-fall-2004/c415aa8d4ee8e4fdc746f57eb8a2e10c_chp_abLang.jpg
 file_size: 33783
 file_type: image/jpeg
 image_metadata:
