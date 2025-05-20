@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on syntax.
-file: /ol-ocw-studio-app/courses/9-56j-abnormal-language-fall-2004/39d6659e7ae0fd8de5bb5df0dabb59c8_prob_setsolution.pdf
+file: /courses/9-56j-abnormal-language-fall-2004/39d6659e7ae0fd8de5bb5df0dabb59c8_prob_setsolution.pdf
 file_size: 227988
 file_type: application/pdf
 learning_resource_types:
